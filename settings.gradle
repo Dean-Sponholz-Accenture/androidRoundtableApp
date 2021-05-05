@@ -1,0 +1,3 @@
+include ':androidrountablewear'
+include ':app'
+rootProject.name = "androidRoundtableApp"

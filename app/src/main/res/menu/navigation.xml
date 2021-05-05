@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_enter_data"
+        android:icon="@drawable/abc_vector_test"
+        android:title="New Entry"/>
+
+    <item
+        android:id="@+id/navigation_view_data"
+        android:icon="@drawable/close_button"
+        android:title="Song List"/>
+
+
+</menu>
